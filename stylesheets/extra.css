@@ -1,0 +1,57 @@
+/* Custom styles for qldata documentation */
+
+:root {
+    --md-primary-fg-color: #7c3aed;
+    --md-primary-fg-color--light: #a78bfa;
+    --md-primary-fg-color--dark: #5b21b6;
+    --md-accent-fg-color: #f59e0b;
+}
+
+/* Better code blocks */
+.highlight code {
+    font-size: 0.85em;
+}
+
+/* API reference styling */
+.doc-heading {
+    border-bottom: 2px solid var(--md-primary-fg-color);
+    padding-bottom: 0.5rem;
+}
+
+/* Feature cards hover effect */
+.feature:hover {
+    transform: translateY(-2px);
+    transition: transform 0.2s ease;
+}
+
+/* Better tables */
+.md-typeset table:not([class]) {
+    border-collapse: collapse;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+    background: var(--md-primary-fg-color);
+    color: white;
+}
+
+/* Admonition improvements */
+.md-typeset .admonition {
+    border-radius: 0.5rem;
+}
+
+/* Code annotation styling */
+.md-typeset .md-annotation__index {
+    background: var(--md-primary-fg-color);
+}
+
+/* Navigation improvements */
+.md-nav__link--active {
+    font-weight: 600;
+}
+
+/* Footer styling */
+.md-footer {
+    margin-top: 2rem;
+}

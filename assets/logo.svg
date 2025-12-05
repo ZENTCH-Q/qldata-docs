@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- 3x3 grid of squares with center removed -->
+  <g fill="#000000">
+    <!-- row 1 -->
+    <rect x="30"  y="30"  width="60" height="60" rx="0" />
+    <rect x="120" y="30"  width="60" height="60" rx="0" />
+    <rect x="210" y="30"  width="60" height="60" rx="0" />
+    <!-- row 2 -->
+    <rect x="30"  y="120" width="60" height="60" rx="0" />
+    <rect x="210" y="120" width="60" height="60" rx="0" />
+    <!-- row 3 -->
+    <rect x="30"  y="210" width="60" height="60" rx="0" />
+    <rect x="120" y="210" width="60" height="60" rx="0" />
+    <rect x="210" y="210" width="60" height="60" rx="0" />
+  </g>
+</svg>
