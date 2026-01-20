@@ -210,15 +210,6 @@ qldata
 ├── monitoring/     # Metrics, alerts, health checks
 └── stores/         # Storage backends (Parquet, DuckDB)
 ```
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](https://zentch-q.github.io/qldata-docs/contributing/) for details.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -230,3 +221,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ by [ZENTCH-Q](https://github.com/ZENTCH-Q)**
 
 </div>
+
